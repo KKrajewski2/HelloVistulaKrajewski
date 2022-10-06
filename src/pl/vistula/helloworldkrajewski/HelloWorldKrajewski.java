@@ -7,5 +7,7 @@ public class HelloWorldKrajewski {
 
         System.out.println("Hello Vistula Krajewski1");
 
+        System.out.println("Hello Vistula Krajewski2");
+
     }
 }
